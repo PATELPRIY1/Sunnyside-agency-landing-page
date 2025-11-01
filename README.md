@@ -30,14 +30,14 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/PATELPRIY1/Sunnyside-agency-landing-page.git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/PATELPRIY1/Sunnyside-agency-landing-page.git)
+- Live Site URL: (https://patelpriy1.github.io/Sunnyside-agency-landing-page/)
 
 ## My process
 
 ### Built with
 
-- Semantic HTML5 markup
+- Semantic HTML5 markuphttps
 - CSS custom properties
 - Flexbox
 - CSS Grid
